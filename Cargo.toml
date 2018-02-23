@@ -1,0 +1,8 @@
+[package]
+name = "bucketed_data"
+version = "0.1.0"
+authors = ["Pascal Seitz <pascal.seitz@gmail.com>"]
+
+[dependencies]
+itertools = "0.7.6"
+fixedbitset = "0.1.8"
